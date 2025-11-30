@@ -1,0 +1,38 @@
+Piece Wise Grapher App made by Jay-lab27
+Functions Supported in Piecewise Expressions ✅
+Input Parsing Support:
+Your app handles these algebraic functions:
+
+Linear: x, 2x, x+1, x-4, 3x+2
+Quadratic: x², x^2, 2x², etc.
+Absolute Value: |x|, |x-1|, |2x|, etc.
+Square Root: √x, sqrt(x)
+Rational: x/2, 1/x, etc.
+Polynomial: combinations with +, -, *, /, ^ operators
+Graphing Evaluation Support:
+When graphing, the app evaluates:
+
+✅ abs() - absolute value
+✅ sin() - sine (in radians)
+✅ cos() - cosine (in radians)
+✅ tan() - tangent (in radians)
+✅ log() - natural logarithm
+✅ ln() - natural logarithm
+✅ exp() - exponential function
+✅ sqrt() - square root
+✅ floor() - floor function
+✅ ceil() / ceiling() - ceiling function
+✅ sgn() / sign() - signum (sign function)
+✅ round() - rounding function
+Mathematical Operators Supported:
+Addition: +
+Subtraction: -
+Multiplication: * (also implicit like 2x)
+Division: /
+Exponentiation: ^ or **
+Domain Condition Support:
+x < a (less than)
+x ≤ a (less than or equal)
+x > a (greater than)
+x ≥ a (greater than or equal)
+Compound: -3 ≤ x < -1
